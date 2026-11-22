@@ -59,7 +59,7 @@ The raw data sheet is hidden but still in the file.
 
 ## How to open
 
-Download `Adecco_HR_Analysis_Project_Cleaned.xlsx` and open it in Excel 365 or Excel 2021. A few formulas use FILTER, which older versions don't support. The dashboard opens first; the Easy and Medium sheets have each question written above its answer.
+Download `Adecco_HR_Analysis.xlsx` and open it in Excel 365 or Excel 2021. A few formulas use FILTER, which older versions don't support. The dashboard opens first; the Easy and Medium sheets have each question written above its answer.
 
 ## Author
 
